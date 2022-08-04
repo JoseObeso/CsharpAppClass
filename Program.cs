@@ -14,23 +14,7 @@ namespace CsharpAppClass
 				case 0:
 				 OrdenServicio = "";
 				 break;
-				case 4:
-				 OrdenServicio = numero;
-				 break;
-				
-				case 5:
-				 OrdenServicio = numero;
-				 break;
-				
-				case 6:
-				 OrdenServicio = numero;
-				 break;
-				
-				case 7:
-				 OrdenServicio = numero;
-				 break;
-				
-				case 8:
+				case 4: case 5:	case 6:	case 7:	case 8:
 				 OrdenServicio = numero;
 				 break;
 				
